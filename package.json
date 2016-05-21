@@ -1,0 +1,37 @@
+{
+  "name": "gcss",
+  "version": "0.1.4",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-sass": "^2.1.0",
+    "browser-sync": "^2.7.12",
+    "gulp-plumber": "^1.0.1",
+    "gulp-clean": "^0.3.2",
+    "gulp-uglify": "^1.5.3",
+    "gulp-clean-css": "^2.0.6"
+  },
+  "dependencies": {},
+  "description": "正在构建中得CSS基础框架。",
+  "main": "GCSS.sass",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "gulp dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GGICE/GCSS.git"
+  },
+  "keywords": [
+    "base",
+    "css",
+    "styles"
+  ],
+  "author": "GGICE",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GGICE/GCSS/issues"
+  },
+  "homepage": "https://github.com/GGICE/GCSS#readme"
+}
