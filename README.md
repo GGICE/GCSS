@@ -1,8 +1,5 @@
 # GCSS 
 
-The css framework being built.
-
-
 ## Based on open source projects：
 
 * pure https://github.com/yahoo/pure/

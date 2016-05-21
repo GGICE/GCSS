@@ -1,6 +1,6 @@
 {
   "name": "gcss",
-  "version": "0.1.4",
+  "version": "0.1.51",
   "devDependencies": {
     "gulp": "^3.9.1",
     "gulp-sass": "^2.1.0",
@@ -11,7 +11,7 @@
     "gulp-clean-css": "^2.0.6"
   },
   "dependencies": {},
-  "description": "正在构建中得CSS基础框架。",
+  "description": "The css framework being built.",
   "main": "GCSS.sass",
   "directories": {
     "test": "test"
