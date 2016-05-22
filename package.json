@@ -1,6 +1,6 @@
 {
   "name": "gcss",
-  "version": "0.1.51",
+  "version": "0.1.52",
   "devDependencies": {
     "gulp": "^3.9.1",
     "gulp-sass": "^2.1.0",
